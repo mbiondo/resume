@@ -34,7 +34,6 @@ _May 2012 - Present | Buenos Aires, Argentina_
 
 **Technologies**: PHP, JavaScript, TypeScript, PostgreSQL, MariaDB, Oracle, React, Node.js, WebSockets, ElasticSearch
 
-
 ---
 
 ### **Actívica S.A.**  
@@ -111,7 +110,6 @@ Completed a two-year program in **Systems Analysis**, gaining a solid foundation
 
 **Technologies**: Ember.js, Node.js, Socket.io  
 **Impact**: The real-time system dramatically improved session management efficiency, allowing legislators to easily manage speaker requests and times, reducing manual intervention, and enhancing overall workflow during sessions.
-
 
 ---
 
