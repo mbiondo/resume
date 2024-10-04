@@ -34,7 +34,6 @@ _May 2012 - Present | Buenos Aires, Argentina_
 
 **Technologies**: PHP, JavaScript, TypeScript, PostgreSQL, MariaDB, Oracle, React, Node.js, WebSockets, ElasticSearch
 
----
 
 ### **Actívica S.A.**  
 **Senior Programmer Analyst**  
@@ -55,7 +54,6 @@ _Jun 2010 - Jan 2012 | Buenos Aires, Argentina_
 _UAI - Universidad Abierta Interamericana | Buenos Aires_  
 Completed the first two years of the degree with a **9.0 GPA** across 12 courses.
 
----
 
 ### **High School Diploma in Systems Analysis**  
 _ORT Argentina | Buenos Aires_  
@@ -65,15 +63,6 @@ Completed a two-year program in **Systems Analysis**, gaining a solid foundation
 
 ## 📂 Relevant Projects
 
----
-
-### **Minimal Blog - Astro**
-
-**Description**: Development of a minimalist blog using **Astro** with database integration through **Astro DB**. The project includes user authentication with **Lucia Auth** and automatic deployment on **Vercel**.  
-**Technologies**: Astro, Astro DB, Lucia Auth, Vercel  
-**Impact**: Creation of a highly optimized blog for performance, featuring a minimalist and scalable design, ideal for static content projects.
-
----
 
 ### **Actions Manager Library**
 
@@ -81,15 +70,12 @@ Completed a two-year program in **Systems Analysis**, gaining a solid foundation
 **Technologies**: TypeScript, Node.js, Generics  
 **Impact**: Facilitated the management of user permissions and actions in complex systems, allowing for more maintainable and structured code.
 
----
-
 ### **File Upload & Data Visualization App**
 
 **Description**: Development of an application that handles file uploads, dynamic data visualization, and notifications. It utilizes **Zustand** for state management, **React Query** for data handling, and **Tailwind CSS** for design.  
 **Technologies**: React, Zustand, React Query, Tailwind CSS  
 **Impact**: An interactive application that enhances the user experience by managing large data volumes and providing advanced filters and real-time notifications.
 
----
 
 ### **Custom Chatbot Integration**
 
@@ -97,7 +83,6 @@ Completed a two-year program in **Systems Analysis**, gaining a solid foundation
 **Technologies**: Node.js, OpenAI API, Llama3, Vector Databases  
 **Impact**: Provided an automated customer support tool, improving client interaction through AI-based responses.
 
----
 
 ### **Real-Time Speaker Management System - Cámara de Diputados de la Nación Argentina**
 
